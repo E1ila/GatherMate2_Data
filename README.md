@@ -1,4 +1,4 @@
-# GatherMate2_Data
+# GatherMate2_Data (fixed Black Lotus nodes)
 Node data for WoW Classic GatherMate2 Addon
 
 Based on https://www.curseforge.com/wow/addons/spinx-gathermate2-data-classic
